@@ -1,0 +1,4 @@
+VirusU is a Virus for Computers with Windows 10
+VirusU is made in Batch file
+
+DO NOT open VirusU on private computer, do it only on Virtual Machine (VM)
